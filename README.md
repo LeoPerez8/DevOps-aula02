@@ -1,1 +1,3 @@
-# DevOps-aula02
+- Leonardo DiCaprio
+- Margot Robbin
+- Stan Lee
