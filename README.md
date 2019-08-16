@@ -1,3 +1,4 @@
 - Leonardo DiCaprio
 - Margot Robbin
 - Stan Lee
+- Chris Hemsworth
